@@ -1,0 +1,119 @@
+1659969517768	geckodriver	INFO	Listening on 127.0.0.1:27614
+1659969520851	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "27615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileOFEEnb"
+1659969521900	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:27615
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileOFEEnb\\search.json.mozlz4", (void 0)))
+1659969526566	Marionette	INFO	Listening on port 27645
+DevTools listening on ws://localhost:27615/devtools/browser/03fdf20b-681a-4d9c-8034-aab1665e347d
+Read port: 27645
+1659969526669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659969546843	Marionette	INFO	Stopped listening on port 27645
+1659969549108	geckodriver	INFO	Listening on 127.0.0.1:27708
+1659969552184	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "27709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofile41SCQo"
+1659969553096	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:27709
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofile41SCQo\\search.json.mozlz4", (void 0)))
+1659969557861	Marionette	INFO	Listening on port 27743
+Read port: 27743
+1659969557910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:27709/devtools/browser/c621691e-0479-456f-bb12-74ff32378733
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://106.52.212.221:8080"
+1659969578071	Marionette	INFO	Stopped listening on port 27743
+1659969580238	geckodriver	INFO	Listening on 127.0.0.1:27816
+1659969583317	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "27817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileZOgR6C"
+1659969584336	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:27817
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileZOgR6C\\search.json.mozlz4", (void 0)))
+1659969588753	Marionette	INFO	Listening on port 27848
+DevTools listening on ws://localhost:27817/devtools/browser/c9b35b7c-f418-48dd-be88-e2d9fb9f8a27
+Read port: 27848
+1659969588845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659969609762	Marionette	INFO	Stopped listening on port 27848
+1659970483639	geckodriver	INFO	Listening on 127.0.0.1:28837
+1659970486693	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileYFuuUJ"
+1659970487188	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:28838
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileYFuuUJ\\search.json.mozlz4", (void 0)))
+1659970489718	Marionette	INFO	Listening on port 28865
+DevTools listening on ws://localhost:28838/devtools/browser/495a3cb8-ff68-4d2d-922d-741dbfc69a54
+Read port: 28865
+1659970489824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659970508178	Marionette	INFO	Stopped listening on port 28865
+1659970509441	geckodriver	INFO	Listening on 127.0.0.1:28930
+1659970512479	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileFKlbWJ"
+1659970512955	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:28931
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileFKlbWJ\\search.json.mozlz4", (void 0)))
+1659970515482	Marionette	INFO	Listening on port 28955
+Read port: 28955
+1659970515516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:28931/devtools/browser/0295af20-0897-4a21-92e5-0290c03cd780
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://106.52.212.221:8080"
+1659970534139	Marionette	INFO	Stopped listening on port 28955
+[Parent 69624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1659970535068	geckodriver	INFO	Listening on 127.0.0.1:29019
+1659970538121	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileGq2iSW"
+1659970538592	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:29020
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileGq2iSW\\search.json.mozlz4", (void 0)))
+1659970541092	Marionette	INFO	Listening on port 29049
+DevTools listening on ws://localhost:29020/devtools/browser/8ec3ab7d-ac25-4214-b75f-aa58b0ca7274
+Read port: 29049
+1659970541219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659970555068	Marionette	INFO	Stopped listening on port 29049
+1659970571413	geckodriver	INFO	Listening on 127.0.0.1:29117
+1659970574487	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofileWfXVLW"
+1659970574982	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:29118
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofileWfXVLW\\search.json.mozlz4", (void 0)))
+1659970577460	Marionette	INFO	Listening on port 29143
+Read port: 29143
+DevTools listening on ws://localhost:29118/devtools/browser/0cdbe394-ee3e-4ff7-a54d-76871d1b6822
+1659970577488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659970596510	Marionette	INFO	Stopped listening on port 29143
+[Parent 61500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659970597837	geckodriver	INFO	Listening on 127.0.0.1:29209
+1659970600893	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofilerltwJl"
+1659970601364	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:29210
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofilerltwJl\\search.json.mozlz4", (void 0)))
+1659970603792	Marionette	INFO	Listening on port 29236
+DevTools listening on ws://localhost:29210/devtools/browser/39aeb0ee-cf84-4b3f-ba45-614444f60e1e
+Read port: 29236
+1659970603904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://106.52.212.221:8080"
+1659970623358	Marionette	INFO	Stopped listening on port 29236
+1659970624429	geckodriver	INFO	Listening on 127.0.0.1:29308
+1659970627477	mozrunner::runner	INFO	Running command: "D:\\tools\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\猫九\\AppData\\Local\\Temp\\rust_mozprofilehV1Wpx"
+1659970627943	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:29309
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u732B\u4E5D\\AppData\\Local\\Temp\\rust_mozprofilehV1Wpx\\search.json.mozlz4", (void 0)))
+1659970630473	Marionette	INFO	Listening on port 29336
+DevTools listening on ws://localhost:29309/devtools/browser/6f71de66-024e-490f-a7b1-909a66cb944a
+Read port: 29336
+1659970630603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_df1258ca40d586712b99c2ce8dbf3cf6.js?df1258ca40d586712b99c2ce8dbf3cf6, line 96: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1659970649157	Marionette	INFO	Stopped listening on port 29336
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
